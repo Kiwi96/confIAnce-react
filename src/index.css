@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+
+theme {
+  /* Aquí defines tu color personalizado */
+  --color-dark-space: #02021C;
+}
+
